@@ -1,4 +1,4 @@
-from dhooks import Webhook , File
+from dhooks import Webhook
 import socket
 from requests import get
 
