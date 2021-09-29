@@ -1,5 +1,15 @@
 this is discord ip grabber by #z3tor123
 ---
+1 - install dhooks by pip !!
+
+![image](https://user-images.githubusercontent.com/72771279/135185240-29fcc648-3fa2-40c6-83aa-e39132513c4f.png)
+
+
+if this one not working try this
+
+![image](https://user-images.githubusercontent.com/72771279/135185260-4ce9ad83-34d1-43df-95da-bd04525ab112.png)
+
+---
 1 - you have to do new webhook !!
 
 ![image](https://user-images.githubusercontent.com/72771279/135181768-fac72361-3bd8-46df-bc20-0296a7552187.png)
